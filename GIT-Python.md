@@ -4,25 +4,16 @@
 	
 	El propósito es iniciar desde lo basico hasta para que los que incresan al campo adquieran este primer conocimeinto hasta desarrollar sus propios proyectos y siempre es bueno refrescar bases y algo nuevo se aprende.
 
-# 🔗Referencias:
 
-	He tomado de referencia el canal de SoyDalto, pueden seguirlo y suscribirse para apoyarlo:
-
-[Soy Dalto](https://youtu.be/nKPbfIU442g?si=uqCkj6HPIfDZsjmb)
-	
-	
-
-# 👉Comentarios Personales:
-
+# Python
 
 ## Caracteristicas
 
-	multiples usos
-	alto nivel
-	tipado dinamico
-	orientado a objetos
-	interpretado
-
+	Multiples usos
+	Alto nivel
+	Tipado dinamico
+	Orientado a objetos
+	Interpretado
 
 ## Historia
 
@@ -31,8 +22,6 @@
 ## Instalación
 
 [Website]([Welcome to Python.org](https://www.python.org/))
-
-
 
 ## Python Syntax Basics (Code Examples)
 
@@ -109,7 +98,7 @@ Tipos de datos
 
 #### Lista [ ]
 
-		# Se puede modificar
+		# Se puede modificar 
 	lista = ["nombre",true,1.80]
 
 	 lista[1] = "nombre2"	
@@ -160,12 +149,50 @@ resto = 12 % 5
 
 
 
+## Metodos de listas
+
+# 2:30:11
+
+Print (dir('adsfa',5)) # para tuplas
+## Metodos de diccionarios
+
+
+Keys() -devuelve las claves
+get() - devuelve el valor de una clave
+clear() - elimina todos los elementos
+pop() -elimina un elemento
+items() - para iterar el dict
+
+
+# Entrada de datos - inputs
+
+nombre = input("ingresar un dato")
+print {f'el nombre es: {nombre}'}
+
+# Ejercicios prácticos 1
+
+
+2:50  a 
+
+
+2:56
+# Ejercicios prácticos 2
 
 
 
+
+# Ejercicios prácticos 3
+
+
+
+
+
+# 🔗Referencias:
+
+	He tomado de referencia el canal de SoyDalto, pueden seguirlo y suscribirse para apoyarlo:
+
+[Soy Dalto](https://youtu.be/nKPbfIU442g?si=uqCkj6HPIfDZsjmb)
+	
 	
 
-
-		
-
-
+# 👉Comentarios Personales:
