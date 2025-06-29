@@ -93,5 +93,3 @@ print(person["name"])  # Outputs: Adrian
 [Soy Dalto](https://youtu.be/nKPbfIU442g?si=uqCkj6HPIfDZsjmb)
 	
 	
-
-# 👉Comentarios Personales:
